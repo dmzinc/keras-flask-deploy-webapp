@@ -16,11 +16,7 @@ A pretty and customizable web app to deploy your DL model with ease
 - Go to http://localhost:5000
 - Done! :tada:
 
-:point_down: Screenshot:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5097752/71063354-8caa1d00-213a-11ea-86eb-879238887c1f.png" height="420px" alt="">
-</p>
 
 ## New Features :fire:
 
@@ -30,10 +26,6 @@ A pretty and customizable web app to deploy your DL model with ease
 - Switch to TensorFlow 2.0 and [tf.keras](https://www.tensorflow.org/guide/keras) by default
 - Upgrade Docker base image to Python 3 (it's 2020)
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/5097752/71065048-61c1c800-213e-11ea-92f1-274cbe4734ba.png" height="330px" alt="">
-  <img src="https://user-images.githubusercontent.com/5097752/71062921-aeef6b00-2139-11ea-8b23-6b9eb1e326ca.png" height="330px" alt="">
-</p>
 
 _If you need to use Python 2.x or TensorFlow 1.x, check out the [legacy](https://github.com/mtobeiyf/keras-flask-deploy-webapp/tree/legacy) snapshot_
 
